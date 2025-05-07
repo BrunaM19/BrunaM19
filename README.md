@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello Wolrd!
 
-<h3 align="center">Hi, I’m Bruna! Epitech student, Front-End Developer, and passionate about football and tech.</h3>
+<h3 align="center">I’m Bruna! Epitech student, Front-End Developer, and passionate about football and tech.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
