@@ -7,9 +7,6 @@
   <a href="https://linkedin.com/in/bruna-monasse-468a89339" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bruna-monasse-468a89339" height="30" width="40" />
   </a>
-  <a href="mailto:bruna-monasse.macuacua@epitech.eu" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Outlook.com_logo_2013.svg" alt="bruna-monasse.macuacua@epitech.eu" height="30" width="40" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
